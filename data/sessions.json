@@ -1,0 +1,24 @@
+[{
+  "id": "1",
+  "title": "new title",
+  "description": "test",
+  "startsAt": "some date",
+  "endsAt": "end date",
+  "room": "test",
+  "day": "day one",
+  "format": "format ",
+  "track": "tracked",
+  "level": "level 10"
+},
+{
+  "id": "84473",
+  "title": "new title 2",
+  "description": "test 2",
+  "startsAt": "some date 2",
+  "endsAt": "end date 2",
+  "room": "Europa",
+  "day": "day one 2",
+  "format": "format  2",
+  "track": "tracked 2",
+  "level": "level 1 20"
+}]
